@@ -1,0 +1,20 @@
+{
+  "name": "workshop5-backend",
+  "version": "1.0.0",
+  "description": "Backend for Workshop 5 MVP with GenAI",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^8.0.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
