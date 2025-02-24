@@ -21,54 +21,54 @@
 - MongoDB instalado localmente o una cuenta en MongoDB Atlas
 - npm o yarn
 
-## Instalación
+# Instalación
 
-### Backend
+## Backend
 
 bash
 
-# Clonar el repositorio
+### Clonar el repositorio
 
 git clone <url-del-repositorio>
 
-# Navegar al directorio del backend
+### Navegar al directorio del backend
 
 cd Backend
 
-# Instalar dependencias
+### Instalar dependencias
 
 npm install
 
-# Crear archivo .env
+### Crear archivo .env
 
-# Agregar las siguientes variables en .env
+#### Agregar las siguientes variables en .env
 
 MONGODB_URI=mongodb://localhost:27017/workshop5
 
 PORT=5000
 
 
-# Iniciar el servidor
+### Iniciar el servidor
 
 npm start
 
-### Frontend
+## Frontend
 
 bash
 
-# Navegar al directorio del frontend
+### Navegar al directorio del frontend
 
 cd Frontend
 
-# Instalar dependencias
+### Instalar dependencias
 
 npm install
 
-# Iniciar la aplicación
+### Iniciar la aplicación
 
 npm start
 
-## Estructura del Proyecto
+### Estructura del Proyecto
 
 Workshop5_MVPGenAI/
 
